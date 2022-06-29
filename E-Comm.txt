@@ -1,0 +1,23 @@
+1. Run XAMPP and create folder MyProject in htdocs-cmt-7
+2. Past wordpress.zip in MyProject folder and create DB
+3. Using Chrome from localhost/myproject run wordpress
+4. From dashboard add theme Woostify
+5. Add Plugins woocommerce,TI wishlist,varition,contact form 7,elementor,bKash
+6. Setting wishlist,woocommerce
+7. Setting product-simple,variable,afiiliate and digital product
+8. Create Home page and setting from reading
+9. Edit home page using elementor
+10. Add section 2-section and set element text and set propertise in 1st section
+11. Insert 2 Button aline both inline from advance-width and set propertise
+12. Insert image in 2nd section and set propertise
+13. Add 3-section and add image-box element,add icon from flaticon.com-van,add text
+14. Add 1 section insert inner section duplicat more
+15. From unsplash.com beautiful images-sunglass men download a pic
+16. From pixlr e(pixlr.com/e)-create new-350x230-fill color from left side 
+17. From removebg.com upload image,size 350x230 and remove Backgroud and save it
+18. Set into pixlr and save and to image-box image-set propertise. Duplicate it
+19. Add section- add element heading and text- set propertise
+20. Add section- add element shortcode from woocommerce shortcode site copy 
+	product-2 code and paste it
+21. Add section - duplicate previous heading and edit it
+22. Add section-add element image carusal.Insert images from product-reduceimages.com
