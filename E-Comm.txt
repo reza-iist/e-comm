@@ -21,3 +21,4 @@
 	product-2 code and paste it
 21. Add section - duplicate previous heading and edit it
 22. Add section-add element image carusal.Insert images from product-reduceimages.com
+23. Practice it.
