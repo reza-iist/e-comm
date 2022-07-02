@@ -1,5 +1,5 @@
 1. Run XAMPP and create folder MyProject in htdocs-cmt-7
-2. Past wordpress.zip in MyProject folder and create DB
+2. Past wordpress.zip in MyProject folder and create DB named project7
 3. Using Chrome from localhost/myproject run wordpress
 4. From dashboard add theme Woostify
 5. Add Plugins woocommerce,TI wishlist,varition,contact form 7,elementor,bKash
